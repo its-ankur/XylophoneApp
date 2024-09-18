@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="23094" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22685"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23084"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -56,7 +56,7 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="DPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fv4-Es-skO"/>
+                                                    <action selector="CPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="d6Z-lr-sr0"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -80,7 +80,7 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="EPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Nic-9Z-9Ce"/>
+                                                    <action selector="CPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="d6s-fj-ywJ"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -104,7 +104,7 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="FPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="d9W-QV-NhP"/>
+                                                    <action selector="CPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="smO-uK-lfZ"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -128,7 +128,7 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="GPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="MZD-3w-gPI"/>
+                                                    <action selector="CPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="m3Q-wY-S8r"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -152,7 +152,7 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="APressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="oTo-Hg-gfH"/>
+                                                    <action selector="CPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="oxR-yQ-RRb"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -176,7 +176,7 @@
                                                     <color key="titleShadowColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="BPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ZIg-d9-yig"/>
+                                                    <action selector="CPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vgs-B2-GsY"/>
                                                 </connections>
                                             </button>
                                         </subviews>
