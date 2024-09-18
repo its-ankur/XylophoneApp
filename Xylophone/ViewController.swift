@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     @IBAction func CPressed(_ sender: UIButton) {
         // Safely unwrap currentTitle in case it's nil
-        print(sender.currentTitle)
+        print(sender.currentTitle!)
         if let soundTitle = sender.currentTitle {
             playsound(sou: soundTitle)
         }
